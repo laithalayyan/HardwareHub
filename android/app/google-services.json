@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956792943125",
+    "project_id": "hardwarechat-3da37",
+    "storage_bucket": "hardwarechat-3da37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956792943125:android:b6baf451e1b1285b8cd41c",
+        "android_client_info": {
+          "package_name": "com.example.t_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtF9BPngN9RoyhKBhnE54ng7EcT_8158"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

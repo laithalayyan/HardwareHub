@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "hardwarechat-3da37",
+          "appId": "1:956792943125:android:b6baf451e1b1285b8cd41c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "hardwarechat-3da37",
+          "configurations": {
+            "android": "1:956792943125:android:b6baf451e1b1285b8cd41c",
+            "ios": "1:956792943125:ios:325a4f6bf209d5948cd41c",
+            "web": "1:956792943125:web:a2b5201ab78c59778cd41c"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
